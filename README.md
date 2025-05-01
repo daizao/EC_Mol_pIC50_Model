@@ -7,7 +7,7 @@ EC_Mol_pIC50_Model is a deep learning-based model for predicting the pIC50 value
 Pytorch
 Pandas
 Numpy
-Sklearn
+scikit-learn
 Transformers
 ```
 ## Sample
