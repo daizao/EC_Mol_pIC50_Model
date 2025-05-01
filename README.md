@@ -2,9 +2,7 @@
 ```
 EC_Mol_pIC50_Model is a deep learning-based model for predicting the pIC50 values of small-molecule compounds in esophageal cancer.
 ```
-
 ## Dependence
-
 ```
 Pytorch
 Pandas
@@ -12,9 +10,7 @@ Numpy
 Sklearn
 Transformers
 ```
-
 ## Sample
-
 ```
 python smile_predict.py --help
     usage: smile_predict.py [-h] --input INPUT [--outdir OUTDIR] [--outfile OUTFILE]
@@ -30,4 +26,5 @@ python smile_predict.py --help
                             The output file name
 
 ```
-
+## Example data
+[example data](https://doi.org/10.6084/m9.figshare.28914989.v1)
